@@ -1,6 +1,10 @@
-# 💎 Objects & OOP: Modeling Real-World Entities
+# 📖 Chapter 06: Objects & OOP Basics
 
-Almost everything in JavaScript is an object. Arrays? Objects. Functions? Special objects. Date? Object. If you want to build anything with users, products, posts, or game items, you need objects to hold their stats and behaviors together.
+[⏮️ Prev: Chapter 05 (Functions & Scope)](chapter-05-functions-and-scope.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 07 (DOM & Events) ⏭️](chapter-07-dom-and-events.md)
+
+---
+
+Objects represent real-world entities through structured key-value pairs, encapsulate behavior through methods, and serve as the core paradigm for state representation.
 
 ---
 

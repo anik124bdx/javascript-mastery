@@ -1,6 +1,10 @@
-# 🌐 DOM & Events: Making Your Web Pages Actually Do Stuff
+# 📖 Chapter 07: DOM & Events
 
-HTML is the skeleton, CSS is the drip, but JavaScript is the nervous system. Without the **DOM (Document Object Model)**, your web page is just a static picture. With it, you can respond to clicks, create animations, build dark mode toggles, and craft full web apps.
+[⏮️ Prev: Chapter 06 (Objects & OOP Basics)](chapter-06-objects-and-oop.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 08 (Async JS & APIs) ⏭️](chapter-08-async-js-and-apis.md)
+
+---
+
+The Document Object Model (DOM) connects JavaScript to web page elements, turning static markup into interactive user interfaces that react to clicks, input, and lifecycle events.
 
 ---
 

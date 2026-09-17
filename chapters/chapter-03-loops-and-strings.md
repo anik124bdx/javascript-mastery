@@ -1,6 +1,10 @@
-# 🔁 Loops & Strings: Repeating Code Without Frying Your Brain
+# 📖 Chapter 03: Loops & Strings
 
-If you're copying and pasting the exact same line of code 10 times, you're playing yourself. That's what **loops** are for. And **strings** are how you handle every single piece of text on the internet—from usernames to chat messages.
+[⏮️ Prev: Chapter 02 (Operators & Conditionals)](chapter-02-operators-and-conditionals.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 04 (Arrays & Methods) ⏭️](chapter-04-arrays-and-methods.md)
+
+---
+
+Loops allow you to repeat operations cleanly, and strings provide the foundational tools to inspect, format, and manipulate textual data.
 
 ---
 

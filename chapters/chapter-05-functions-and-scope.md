@@ -1,6 +1,10 @@
-# ⚡ Functions & Scope: Reusable Logic Without Copy-Pasting
+# 📖 Chapter 05: Functions & Scope
 
-If code was cooking, functions are your recipes. Instead of writing 20 lines of repetitive logic every time a user logs in, likes a post, or buys an item, you write it once, wrap it in a function, and call it whenever you need it.
+[⏮️ Prev: Chapter 04 (Arrays & Methods)](chapter-04-arrays-and-methods.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 06 (Objects & OOP Basics) ⏭️](chapter-06-objects-and-oop.md)
+
+---
+
+Functions encapsulate reusable logic, keep code modular, and establish variable scopes and closures.
 
 ---
 

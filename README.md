@@ -20,20 +20,20 @@
 
 ---
 
-## 🗺️ Curriculum Roadmap
+## 🗺️ Chapter Roadmap
 
-Follow the modules sequentially or jump directly into any topic:
+Follow the chapters in order or jump directly to what you're working on:
 
-| Module | Topic | Level | Key Concepts Covered | Link |
+| Chapter | Topic | Level | Key Concepts Covered | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **01** | **Variables & Data Types** | `Beginner` | `let`, `const`, `var`, 7 Primitives, Objects, Arrays, `typeof`, Type Coercion | [View Guide](variables_and_datatypes_guide.md) |
-| **02** | **Operators & Conditionals** | `Beginner` | Arithmetic, Strict Equality (`===`), Logical Operators, `if/else`, `switch`, Truthy/Falsy | [View Guide](operators_and_conditionals_guide.md) |
-| **03** | **Loops & Strings** | `Intermediate` | `for`, `while`, `do-while`, `for...of`, `break`/`continue`, Template Literals, String Methods | [View Guide](loops_and_strings_guide.md) |
-| **04** | **Arrays & Methods** | `Intermediate` | Indexing, Mutating Methods, ES6 Iterators (`map`, `filter`, `reduce`), Spread & Destructuring | [View Guide](arrays_guide.md) |
-| **05** | **Functions & Scope** | `Intermediate` | Declarations vs Expressions, Arrow Functions, Rest/Default Params, Callbacks, Closures | [View Guide](functions_guide.md) |
-| **06** | **Objects & OOP Basics** | `Advanced` | Dot/Bracket Access, `this` Keyword, Deep vs Shallow Copy, Object Static Methods, Classes | [View Guide](objects_guide.md) |
-| **07** | **DOM & Events** | `Advanced` | `querySelector`, Content Updates, Style & `classList`, Element Creation, Event Delegation | [View Guide](dom_and_events_guide.md) |
-| **08** | **Async JS & API Calls** | `Advanced` | Event Loop, Promises, `async`/`await`, JSON, HTTP Requests (`fetch`), Error Handling | [View Guide](api_calls_guide.md) |
+| **01** | **Variables & Data Types** | `Beginner` | `let`, `const`, `var`, 7 Primitives, Objects, Arrays, `typeof`, Type Coercion | [Open Chapter 1](chapters/chapter-01-variables-and-datatypes.md) |
+| **02** | **Operators & Conditionals** | `Beginner` | Arithmetic, Strict Equality (`===`), Logical Operators, `if/else`, `switch`, Truthy/Falsy | [Open Chapter 2](chapters/chapter-02-operators-and-conditionals.md) |
+| **03** | **Loops & Strings** | `Intermediate` | `for`, `while`, `do-while`, `for...of`, `break`/`continue`, Template Literals, String Methods | [Open Chapter 3](chapters/chapter-03-loops-and-strings.md) |
+| **04** | **Arrays & Methods** | `Intermediate` | Indexing, Mutating Methods, ES6 Iterators (`map`, `filter`, `reduce`), Spread & Destructuring | [Open Chapter 4](chapters/chapter-04-arrays-and-methods.md) |
+| **05** | **Functions & Scope** | `Intermediate` | Declarations vs Expressions, Arrow Functions, Rest/Default Params, Callbacks, Closures | [Open Chapter 5](chapters/chapter-05-functions-and-scope.md) |
+| **06** | **Objects & OOP Basics** | `Advanced` | Dot/Bracket Access, `this` Keyword, Deep vs Shallow Copy, Object Static Methods, Classes | [Open Chapter 6](chapters/chapter-06-objects-and-oop.md) |
+| **07** | **DOM & Events** | `Advanced` | `querySelector`, Content Updates, Style & `classList`, Element Creation, Event Delegation | [Open Chapter 7](chapters/chapter-07-dom-and-events.md) |
+| **08** | **Async JS & API Calls** | `Advanced` | Event Loop, Promises, `async`/`await`, JSON, HTTP Requests (`fetch`), Error Handling | [Open Chapter 8](chapters/chapter-08-async-js-and-apis.md) |
 
 ---
 

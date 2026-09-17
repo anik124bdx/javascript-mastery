@@ -1,6 +1,10 @@
-# ⚡ Operators & Conditionals: Teaching Your Code to Make Decisions
+# 📖 Chapter 02: Operators & Conditionals
 
-Computers are fast, but by default they are completely clueless. Operators let you do math and compare values, and conditionals let your code make decisions instead of mindlessly running down in a straight line.
+[⏮️ Prev: Chapter 01 (Variables & Data Types)](chapter-01-variables-and-datatypes.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 03 (Loops & Strings) ⏭️](chapter-03-loops-and-strings.md)
+
+---
+
+Operators allow you to perform calculations and evaluations, while conditional statements let your program branch and make decisions based on dynamic state.
 
 ---
 

@@ -1,6 +1,10 @@
-# 📦 Variables & Data Types: Storing Your Data Without Looking Clueless
+# 📖 Chapter 01: Variables & Data Types
 
-Before you can build anything insane, you gotta understand how JavaScript holds onto information. Variables are just memory boxes with labels on them. Let's make sure you're using the right ones.
+[🏠 Home (Roadmap)](../README.md) • [Next: Chapter 02 (Operators & Conditionals) ⏭️](chapter-02-operators-and-conditionals.md)
+
+---
+
+Understanding how JavaScript stores and manages data in memory is the foundation of everything you will build. Variables are containers with labels, and data types define what can live inside them.
 
 ---
 

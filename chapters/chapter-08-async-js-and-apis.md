@@ -1,6 +1,10 @@
-# 🚀 Async JS & APIs: Fetching Data from the Outside World
+# 📖 Chapter 08: Asynchronous JavaScript & APIs
 
-Your frontend looks great, but right now it's running on hardcoded fake data. In the real world, you need to pull live stats, query user profiles from databases, and talk to external servers. That's where **Asynchronous JavaScript** and **APIs** come into play.
+[⏮️ Prev: Chapter 07 (DOM & Events)](chapter-07-dom-and-events.md) • [🏠 Home (Roadmap)](../README.md) • *(Final Chapter 🎉)*
+
+---
+
+Asynchronous JavaScript powers modern data-driven web applications through the event loop, Promises, `async/await`, and HTTP communications via `fetch()`.
 
 ---
 

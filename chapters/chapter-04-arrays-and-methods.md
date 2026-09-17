@@ -1,6 +1,10 @@
-# 📚 Arrays & Methods: Storing Lists Like a Senior Engineer
+# 📖 Chapter 04: Arrays & Methods
 
-Arrays are the backbone of any real app. Feeds, playlists, shopping carts, follower lists—all of them are arrays under the hood. Let's make sure you're manipulating them with precision.
+[⏮️ Prev: Chapter 03 (Loops & Strings)](chapter-03-loops-and-strings.md) • [🏠 Home (Roadmap)](../README.md) • [Next: Chapter 05 (Functions & Scope) ⏭️](chapter-05-functions-and-scope.md)
+
+---
+
+Arrays are the primary sequential data structure in JavaScript. Mastering modern iterators (`map`, `filter`, `reduce`) and immutability patterns is critical for modern development.
 
 ---
 
