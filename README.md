@@ -6,7 +6,6 @@
 <br/>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![GitHub Repo](https://img.shields.io/badge/Repository-anik124bdx%2Fjavascript--mastery-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anik124bdx/javascript-mastery)
 [![Author](https://img.shields.io/badge/Curated_By-ANIK124BD-6366f1?style=for-the-badge&logo=github)](https://github.com/anik124bdx)
 [![Status](https://img.shields.io/badge/Status-Active_Learning-10b981?style=for-the-badge)](README.md)
 
