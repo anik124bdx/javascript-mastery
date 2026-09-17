@@ -1,84 +1,94 @@
 <div align="center">
 
-# ⚡ JAVASCRIPT: FROM NPC TO MAIN CHARACTER
-### *The Ultimate No-Nonsense Playbook to Mastering Modern JS*
-#### 👑 *Curated & Assembled by **ANIK124BD***
+# 🚀 Modern JavaScript Mastery
+### *A comprehensive, step-by-step curriculum from core fundamentals to advanced concepts*
 
 <br/>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Curated By](https://img.shields.io/badge/Guide_By-ANIK124BD-ff69b4?style=for-the-badge&logo=github)](README.md)
-[![Status](https://img.shields.io/badge/Status-Locked_In-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](README.md)
-[![Vibe](https://img.shields.io/badge/Vibe-100%25_Main_Character-8b5cf6?style=for-the-badge)](README.md)
-[![Spaghetti Code](https://img.shields.io/badge/Spaghetti_Code-0%25-ef4444?style=for-the-badge)](README.md)
-[![Coffee Level](https://img.shields.io/badge/Energy-Infinite-38bdf8?style=for-the-badge&logo=coffeescript&logoColor=white)](README.md)
+[![GitHub Repo](https://img.shields.io/badge/Repository-anik124bdx%2Fjavascript--mastery-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anik124bdx/javascript-mastery)
+[![Author](https://img.shields.io/badge/Curated_By-ANIK124BD-6366f1?style=for-the-badge&logo=github)](https://github.com/anik124bdx)
+[![Status](https://img.shields.io/badge/Status-Active_Learning-10b981?style=for-the-badge)](README.md)
 
 <br/>
 
 <p align="center">
-  <b>No dry textbook lectures. No outdated 2012 syntax. No confusion.</b><br/>
-  Just straight facts, mental models that stick, and everything you need to start building real apps.
+  A clean, practical, and hands-on guide designed to take you from core JavaScript fundamentals to modern frontend application architecture. Every topic includes clear explanations, syntax breakdowns, common pitfalls, and practical exercises.
 </p>
-
----
-
-### 📊 Player Vibe Check
-```text
-[████████████████████████████████████████] 100%
-Current Rank: Future 10x Developer | Bugs Tolerated: 0 | Coffee: Infinite
-```
-
----
 
 </div>
 
-## 🗺️ The Roadmap (Get Locked In)
+---
 
-Pick a drop below, dive into the notes, and test everything in your editor:
+## 🗺️ Curriculum Roadmap
 
-| Drop | Topic | Difficulty | The Rundown | Link |
+Follow the modules sequentially or jump directly into any topic:
+
+| Module | Topic | Level | Key Concepts Covered | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **01** | **Variables & Data Types** | `🟢 Easy` | Why `var` is an instant red flag, 7 primitives, and reference traps. | [👉 Read](variables_and_datatypes_guide.md) |
-| **02** | **Operators & Conditionals** | `🟢 Easy` | Strict `===` vs loose `==`, truthy/falsy logic, and ternary one-liners. | [👉 Read](operators_and_conditionals_guide.md) |
-| **03** | **Loops & Strings** | `🟡 Mid` | Loop without cooking your CPU, backticks, and clean string methods. | [👉 Read](loops_and_strings_guide.md) |
-| **04** | **Arrays & Methods** | `🟡 Mid` | The holy trinity (`map`, `filter`, `reduce`), destructuring, and spread `...`. | [👉 Read](arrays_guide.md) |
-| **05** | **Functions & Scope** | `🟡 Mid` | Arrow functions, callbacks, closures, and demystifying `this`. | [👉 Read](functions_guide.md) |
-| **06** | **Objects & OOP Basics** | `🟠 Deep` | Key-value pairs, optional chaining `?.`, nullish `??`, and blueprints. | [👉 Read](objects_guide.md) |
-| **07** | **DOM & Events** | `🟠 Deep` | Selectors, DOM surgery, bubbling, delegation, and dark mode toggles. | [👉 Read](dom_and_events_guide.md) |
-| **08** | **Async JS & API Calls** | `🔴 Boss` | Event loop, Promises, `async/await`, JSON, and live API fetching. | [👉 Read](api_calls_guide.md) |
+| **01** | **Variables & Data Types** | `Beginner` | `let`, `const`, `var`, 7 Primitives, Objects, Arrays, `typeof`, Type Coercion | [View Guide](variables_and_datatypes_guide.md) |
+| **02** | **Operators & Conditionals** | `Beginner` | Arithmetic, Strict Equality (`===`), Logical Operators, `if/else`, `switch`, Truthy/Falsy | [View Guide](operators_and_conditionals_guide.md) |
+| **03** | **Loops & Strings** | `Intermediate` | `for`, `while`, `do-while`, `for...of`, `break`/`continue`, Template Literals, String Methods | [View Guide](loops_and_strings_guide.md) |
+| **04** | **Arrays & Methods** | `Intermediate` | Indexing, Mutating Methods, ES6 Iterators (`map`, `filter`, `reduce`), Spread & Destructuring | [View Guide](arrays_guide.md) |
+| **05** | **Functions & Scope** | `Intermediate` | Declarations vs Expressions, Arrow Functions, Rest/Default Params, Callbacks, Closures | [View Guide](functions_guide.md) |
+| **06** | **Objects & OOP Basics** | `Advanced` | Dot/Bracket Access, `this` Keyword, Deep vs Shallow Copy, Object Static Methods, Classes | [View Guide](objects_guide.md) |
+| **07** | **DOM & Events** | `Advanced` | `querySelector`, Content Updates, Style & `classList`, Element Creation, Event Delegation | [View Guide](dom_and_events_guide.md) |
+| **08** | **Async JS & API Calls** | `Advanced` | Event Loop, Promises, `async`/`await`, JSON, HTTP Requests (`fetch`), Error Handling | [View Guide](api_calls_guide.md) |
 
 ---
 
-## ⚡ The Setup & Daily Routine
+## 💻 Getting Started Locally
 
-```bash
-# How to run your code right now:
-1. Open index.html in your browser (Double-click or use Live Server)
-2. Hook up your script.js inside <script src="script.js"></script>
-3. Press F12 or Ctrl + Shift + I to open Developer Tools -> Console
-4. Start breaking things, fixing them, and learning for real
-```
+To run and experiment with the code examples:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/anik124bdx/javascript-mastery.git
+   cd javascript-mastery
+   ```
+
+2. **Run with an HTML entry point:**
+   Create an `index.html` file and link your script:
+   ```html
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>JavaScript Mastery</title>
+   </head>
+   <body>
+       <h1>Open the DevTools Console (F12)</h1>
+       <script src="script.js"></script>
+   </body>
+   </html>
+   ```
+
+3. **Open Developer Tools:**
+   - Press **`F12`** or **`Ctrl + Shift + I`** in Chrome, Edge, or Firefox.
+   - Switch to the **Console** tab to inspect live outputs, test expressions, and debug.
 
 ---
 
-## 💡 The Rules of Engagement
+## 📌 Core Engineering Principles
 
 > [!TIP]
-> **Default to `const`**: Only use `let` if you know for a fact the value will be reassigned. Never touch `var`.
+> **Prefer `const` over `let`**: Declare variables with `const` by default. Only switch to `let` when you explicitly need reassignment. Avoid `var` entirely in modern projects.
 
 > [!IMPORTANT]
-> **Always use `===`**: Loose equality `==` does type coercion that will give you trust issues. Keep it strict.
+> **Enforce Strict Equality**: Always use `===` and `!==`. Loose equality (`==`) performs implicit type conversions that often introduce unexpected bugs.
 
-> [!CAUTION]
-> **Check `response.ok` on fetch**: `fetch()` won't throw an error on `404` or `500` status codes. Catch them before they crash your UI.
+> [!WARNING]
+> **Handle Network Responses Explicitly**: `fetch()` only rejects on network failures. Always verify `response.ok` or check the HTTP status code before processing payload data.
+
+---
+
+## 👤 Author
+
+- **ANIK124BD** — [@anik124bdx](https://github.com/anik124bdx)
 
 ---
 
 <div align="center">
-
-### Ready to level up?
-**Start with [Drop 01: Variables & Data Types](variables_and_datatypes_guide.md) and let's get it.**
-
-<sub>Crafted for absolute mastery • Curated by ANIK124BD • Keep building, no excuses</sub>
-
+  <sub>Modern JavaScript Mastery • Designed for clean code and structured learning.</sub>
 </div>
