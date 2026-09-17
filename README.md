@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## 🗺️ Chapter Roadmap
 
 Follow the chapters in order or jump directly to what you're working on:
@@ -34,8 +32,6 @@ Follow the chapters in order or jump directly to what you're working on:
 | **06** | **Objects & OOP Basics** | `Advanced` | Dot/Bracket Access, `this` Keyword, Deep vs Shallow Copy, Object Static Methods, Classes | [Open Chapter 6](chapters/chapter-06-objects-and-oop.md) |
 | **07** | **DOM & Events** | `Advanced` | `querySelector`, Content Updates, Style & `classList`, Element Creation, Event Delegation | [Open Chapter 7](chapters/chapter-07-dom-and-events.md) |
 | **08** | **Async JS & API Calls** | `Advanced` | Event Loop, Promises, `async`/`await`, JSON, HTTP Requests (`fetch`), Error Handling | [Open Chapter 8](chapters/chapter-08-async-js-and-apis.md) |
-
----
 
 ## 💻 Getting Started Locally
 
@@ -65,30 +61,19 @@ To run and experiment with the code examples:
    ```
 
 3. **Open Developer Tools:**
-   - Press **`F12`** or **`Ctrl + Shift + I`** in Chrome, Edge, or Firefox.
-   - Switch to the **Console** tab to inspect live outputs, test expressions, and debug.
-
----
+   - Press **`F12`** or **`Ctrl + Shift + I`** in your browser.
+   - Switch to the **Console** tab to inspect live outputs and test code.
 
 ## 📌 Core Engineering Principles
 
-> [!TIP]
-> **Prefer `const` over `let`**: Declare variables with `const` by default. Only switch to `let` when you explicitly need reassignment. Avoid `var` entirely in modern projects.
+| Principle | Recommendation |
+| :--- | :--- |
+| **Prefer `const` over `let`** | Declare variables with `const` by default. Only use `let` when reassignment is required, and avoid `var` entirely. |
+| **Enforce Strict Equality** | Always use `===` and `!==`. Loose equality (`==`) performs implicit type conversions that cause unexpected bugs. |
+| **Verify Network Responses** | Always check `response.ok` when calling `fetch()` because it does not reject on 4xx or 5xx HTTP errors. |
 
-> [!IMPORTANT]
-> **Enforce Strict Equality**: Always use `===` and `!==`. Loose equality (`==`) performs implicit type conversions that often introduce unexpected bugs.
-
-> [!WARNING]
-> **Handle Network Responses Explicitly**: `fetch()` only rejects on network failures. Always verify `response.ok` or check the HTTP status code before processing payload data.
-
----
-
-## 👤 Author
-
-- **ANIK124BD** — [@anik124bdx](https://github.com/anik124bdx)
-
----
+<br/>
 
 <div align="center">
-  <sub>Modern JavaScript Mastery • Designed for clean code and structured learning.</sub>
+  <sub>Curated by <b><a href="https://github.com/anik124bdx">ANIK124BD</a></b> • Modern JavaScript Mastery</sub>
 </div>
